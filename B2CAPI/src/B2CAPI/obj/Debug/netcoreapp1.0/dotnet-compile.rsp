@@ -1,5 +1,5 @@
---temp-output:C:\Trials\B2CAPI\src\B2CAPI\obj\Debug\netcoreapp1.0\
---out:C:\Trials\B2CAPI\src\B2CAPI\bin\Debug\netcoreapp1.0\B2CAPI.dll
+--temp-output:C:\GitSendhils\Repos\AzureB2CWebAppAndAPIAuthentication\B2CAPI\src\B2CAPI\obj\Debug\netcoreapp1.0\
+--out:C:\GitSendhils\Repos\AzureB2CWebAppAndAPIAuthentication\B2CAPI\src\B2CAPI\bin\Debug\netcoreapp1.0\B2CAPI.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -180,7 +180,7 @@
 --reference:C:\Users\sgurunathan\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\sgurunathan\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\sgurunathan\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"C:\Trials\B2CAPI\src\B2CAPI\obj\Debug\netcoreapp1.0\B2CAPIdotnet-compile.deps.json",B2CAPI.deps.json
-C:\Trials\B2CAPI\src\B2CAPI\Program.cs
-C:\Trials\B2CAPI\src\B2CAPI\Startup.cs
-C:\Trials\B2CAPI\src\B2CAPI\Controllers\ValuesController.cs
+--resource:"C:\GitSendhils\Repos\AzureB2CWebAppAndAPIAuthentication\B2CAPI\src\B2CAPI\obj\Debug\netcoreapp1.0\B2CAPIdotnet-compile.deps.json",B2CAPI.deps.json
+C:\GitSendhils\Repos\AzureB2CWebAppAndAPIAuthentication\B2CAPI\src\B2CAPI\Program.cs
+C:\GitSendhils\Repos\AzureB2CWebAppAndAPIAuthentication\B2CAPI\src\B2CAPI\Startup.cs
+C:\GitSendhils\Repos\AzureB2CWebAppAndAPIAuthentication\B2CAPI\src\B2CAPI\Controllers\ValuesController.cs
