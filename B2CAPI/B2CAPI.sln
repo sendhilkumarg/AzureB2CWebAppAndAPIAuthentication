@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{81703423-D1B1-4BCE-BBA0-3C275B15CC1D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AAB8559C-EAA6-45D3-A3E6-B1C4B56DB57A}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "B2CAPI", "src\B2CAPI\B2CAPI.xproj", "{75ACCA27-0AF4-47DC-9674-BF5F22767476}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "B2CWebApplication", "src\B2CWebApplication\B2CWebApplication.xproj", "{173DF2BA-5385-4F0B-B6EF-E3B8C3B0B5BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75ACCA27-0AF4-47DC-9674-BF5F22767476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75ACCA27-0AF4-47DC-9674-BF5F22767476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75ACCA27-0AF4-47DC-9674-BF5F22767476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75ACCA27-0AF4-47DC-9674-BF5F22767476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{173DF2BA-5385-4F0B-B6EF-E3B8C3B0B5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173DF2BA-5385-4F0B-B6EF-E3B8C3B0B5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173DF2BA-5385-4F0B-B6EF-E3B8C3B0B5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173DF2BA-5385-4F0B-B6EF-E3B8C3B0B5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{75ACCA27-0AF4-47DC-9674-BF5F22767476} = {81703423-D1B1-4BCE-BBA0-3C275B15CC1D}
+		{173DF2BA-5385-4F0B-B6EF-E3B8C3B0B5BE} = {81703423-D1B1-4BCE-BBA0-3C275B15CC1D}
+	EndGlobalSection
+EndGlobal
